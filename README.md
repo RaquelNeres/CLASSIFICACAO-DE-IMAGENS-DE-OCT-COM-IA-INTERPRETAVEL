@@ -240,19 +240,6 @@ Após a execução, o projeto gera:
 - Gráficos de análise (matplotlib)
 - Visualizações Grad-CAM
 
-## Extensões e Melhorias
-
-### Próximos Passos
-1. **Transfer Learning** com modelos pré-treinados (ResNet, EfficientNet)
-2. **Ensemble Methods** para melhorar performance
-3. **Cross-validation** para validação mais robusta
-4. **Deployment** com Flask/FastAPI (já implementado em `app.py`)
-
-### Otimizações
-- **TensorRT** para inferência acelerada
-- **Quantização** do modelo para produção
-- **Distributed training** para datasets maiores
-
 ## Contribuição
 
 Para contribuir:
